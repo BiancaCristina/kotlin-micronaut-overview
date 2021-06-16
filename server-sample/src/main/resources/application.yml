@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: serverSample
+
+logger.levels.com.github.biancacristina: DEBUG

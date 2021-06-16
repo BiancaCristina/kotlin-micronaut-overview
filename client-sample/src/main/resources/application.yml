@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: clientSample
+  server:
+    port: 8081
+
+logger.levels.com.github.biancacristina: DEBUG
